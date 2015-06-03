@@ -1,0 +1,8 @@
+H:\CodyWahl\Sandboxes\WordBreaker\WordBreaker\WordBreaker\bin\Debug\WordBreaker.exe.config
+H:\CodyWahl\Sandboxes\WordBreaker\WordBreaker\WordBreaker\bin\Debug\WordBreaker.exe
+H:\CodyWahl\Sandboxes\WordBreaker\WordBreaker\WordBreaker\bin\Debug\WordBreaker.pdb
+H:\CodyWahl\Sandboxes\WordBreaker\WordBreaker\WordBreaker\obj\Debug\WordBreaker.exe
+H:\CodyWahl\Sandboxes\WordBreaker\WordBreaker\WordBreaker\obj\Debug\WordBreaker.pdb
+H:\CodyWahl\Sandboxes\WordBreaker\WordBreak\WordBreaker\WordBreaker\bin\Debug\WordBreaker.exe.config
+H:\CodyWahl\Sandboxes\WordBreaker\WordBreak\WordBreaker\WordBreaker\obj\Debug\WordBreaker.exe
+H:\CodyWahl\Sandboxes\WordBreaker\WordBreak\WordBreaker\WordBreaker\obj\Debug\WordBreaker.pdb

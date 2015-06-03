@@ -1,0 +1,7 @@
+H:\CodyWahl\Sandboxes\WordBreaker\WordBreaker\WordBreakerTests\bin\Debug\WordBreakerTests.dll
+H:\CodyWahl\Sandboxes\WordBreaker\WordBreaker\WordBreakerTests\bin\Debug\WordBreakerTests.pdb
+H:\CodyWahl\Sandboxes\WordBreaker\WordBreaker\WordBreakerTests\bin\Debug\WordBreaker.exe
+H:\CodyWahl\Sandboxes\WordBreaker\WordBreaker\WordBreakerTests\bin\Debug\WordBreaker.pdb
+H:\CodyWahl\Sandboxes\WordBreaker\WordBreaker\WordBreakerTests\obj\Debug\WordBreakerTests.csprojResolveAssemblyReference.cache
+H:\CodyWahl\Sandboxes\WordBreaker\WordBreaker\WordBreakerTests\obj\Debug\WordBreakerTests.dll
+H:\CodyWahl\Sandboxes\WordBreaker\WordBreaker\WordBreakerTests\obj\Debug\WordBreakerTests.pdb
