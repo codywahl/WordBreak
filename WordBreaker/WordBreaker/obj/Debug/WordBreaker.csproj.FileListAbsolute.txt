@@ -6,3 +6,6 @@ H:\CodyWahl\Sandboxes\WordBreaker\WordBreaker\WordBreaker\obj\Debug\WordBreaker.
 H:\CodyWahl\Sandboxes\WordBreaker\WordBreak\WordBreaker\WordBreaker\bin\Debug\WordBreaker.exe.config
 H:\CodyWahl\Sandboxes\WordBreaker\WordBreak\WordBreaker\WordBreaker\obj\Debug\WordBreaker.exe
 H:\CodyWahl\Sandboxes\WordBreaker\WordBreak\WordBreaker\WordBreaker\obj\Debug\WordBreaker.pdb
+E:\Coding\GitHub\WordBreak\WordBreaker\WordBreaker\bin\Debug\WordBreaker.exe.config
+E:\Coding\GitHub\WordBreak\WordBreaker\WordBreaker\obj\Debug\WordBreaker.exe
+E:\Coding\GitHub\WordBreak\WordBreaker\WordBreaker\obj\Debug\WordBreaker.pdb

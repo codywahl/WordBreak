@@ -11,13 +11,13 @@ namespace WordBreaker
             Console.WriteLine("-- The Word Breaker --");
             Console.WriteLine("-- Given a string and words, I'll determine if those words are in the string! --");
 
-            bool runAgain = false;
+            bool keepRunning = false;
 
             do
             {
                 Run();
-                runAgain = RunAgain();
-            } while (runAgain);
+                keepRunning = KeepRunning();
+            } while (keepRunning);
 
             Console.Write("Exiting...");
             Console.ReadKey();
@@ -46,7 +46,7 @@ namespace WordBreaker
             }
         }
 
-        private static bool RunAgain()
+        private static bool KeepRunning()
         {
             int attemptCount = 0;
             const int attemptMax = 5;
